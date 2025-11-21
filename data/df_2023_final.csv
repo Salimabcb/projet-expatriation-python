@@ -1,0 +1,231 @@
+Pays,Taux_de_chomage_2023,Opportunité_emploi
+Qatar,0.13,Très favorable
+Cambodge,0.225,Très favorable
+Niger,0.425,Très favorable
+Thaïlande,0.733,Très favorable
+Burundi,0.921,Très favorable
+Tchad,1.074,Très favorable
+Bahreïn,1.154,Très favorable
+République démocratique populaire lao,1.188,Très favorable
+Îles Salomon,1.455,Très favorable
+Timor-Leste,1.521,Très favorable
+Moldova,1.555,Très favorable
+Viet Nam,1.645,Très favorable
+Bénin,1.657,Très favorable
+Cuba,1.719,Très favorable
+Togo,1.948,Très favorable
+Koweït,2.127,Très favorable
+Émirats arabes unis,2.151,Très favorable
+Philippines,2.222,Très favorable
+"Région administrative spéciale de Macao, Chine",2.235,Très favorable
+Tonga,2.262,Très favorable
+Côte d'Ivoire,2.27,Très favorable
+Guatemala,2.344,Très favorable
+République tchèque,2.579,Très favorable
+Tanzanie,2.582,Très favorable
+Japon,2.6,Très favorable
+Guinée-Bissau,2.65,Très favorable
+Papouasie-Nouvelle-Guinée,2.661,Très favorable
+"Corée, République de",2.675,Très favorable
+Pologne,2.743,Très favorable
+Mexique,2.765,Très favorable
+Ouganda,2.787,Très favorable
+Sénégal,2.8,Très favorable
+"Corée, République démocratique de",2.831,Très favorable
+Libéria,2.933,Très favorable
+"Chine, RAS de Hong Kong",2.949,Très favorable
+Mali,2.956,Très favorable
+El Salvador,2.992,Très favorable
+Bolivie,3.024,Très favorable
+Myanmar,3.032,Très favorable
+Ghana,3.063,Très favorable
+Allemagne,3.068,Très favorable
+Madagascar,3.069,Très favorable
+Nigéria,3.074,Très favorable
+Fédération de Russie,3.076,Très favorable
+Malte,3.11,Très favorable
+Bhoutan,3.126,Très favorable
+Sierra Leone,3.153,Très favorable
+Oman,3.176,Très favorable
+Petits états insulaires du Pacifique,3.18108550777285,Très favorable
+Indonésie,3.308,Très favorable
+Éthiopie,3.402,Très favorable
+Singapour,3.444,Très favorable
+Bélarus,3.461,Très favorable
+Équateur,3.51,Très favorable
+Islande,3.518,Très favorable
+Mozambique,3.519,Très favorable
+Pays-Bas,3.537,Très favorable
+Norvège,3.572,Très favorable
+Israël,3.596,Très favorable
+Cameroun,3.613,Très favorable
+États-Unis,3.638,Très favorable
+Slovénie,3.652,Très favorable
+Australie,3.668,Très favorable
+Nouvelle-Zélande,3.729,Très favorable
+Comores,3.776,Très favorable
+Amérique du Nord,3.84181538522376,Très favorable
+Asie de l’Est et Pacifique,3.85771244035512,Très favorable
+Malaisie,3.869,Très favorable
+Asie de l’Est et Pacifique (hors revenu élevé),3.97239658895814,Très favorable
+Royaume-Uni,3.984,Très favorable
+Asie de l’Est et Pacifique (BIRD et IDA),3.99023937769226,Très favorable
+République kirghize,3.991,Très favorable
+Arabie saoudite,4.008,Correct
+Europe centrale et les pays baltes,4.01405105340076,Correct
+Suisse,4.043,Correct
+Turkménistan,4.099,Correct
+Hongrie,4.107,Correct
+Inde,4.172,Correct
+Trinité-et-Tobago,4.21,Correct
+Pays pauvres très endettés (PPTE),4.22661765181006,Correct
+Maldives,4.241,Correct
+Irlande,4.288,Correct
+Bulgarie,4.319,Correct
+Fidji,4.322,Correct
+Revenu élevé,4.32742379174678,Correct
+Jamaïque,4.4,Correct
+"Revenu intermédiaire, tranche inférieure",4.4022140714888,Correct
+Bangladesh,4.454,Correct
+Ouzbékistan,4.46,Correct
+de Post-dividende démographique,4.46875629524005,Correct
+"Congo, République démocratique du",4.484,Correct
+IDA mélange,4.51808369615567,Correct
+Asie du Sud,4.53316078699426,Correct
+Asie du Sud (BIRD et IDA),4.53316078699426,Correct
+IDA totale,4.6258035699256,Correct
+Chine,4.67,Correct
+IDA seulement,4.68393546436256,Correct
+de Pré-dividende démographique,4.7006079328224,Correct
+Nicaragua,4.716,Correct
+de dividende tardif démographique,4.80560627805011,Correct
+Kazakhstan,4.821,Correct
+Pays membres de l'OCDE,4.82832486149894,Correct
+Pérou,4.899,Correct
+Faible revenu,4.9067296311379,Correct
+Monde,4.91657221632923,Correct
+Pays les moins avancés: classement de l’ONU,4.94642314711997,Correct
+Samoa,4.977,Correct
+Malawi,5.033,Correct
+BIRD et IDA,5.03559497830806,Correct
+Revenu faible et intermédiaire,5.05976552198271,Correct
+Revenu intermédiaire,5.07451236816572,Correct
+Vanuatu,5.082,Correct
+Danemark,5.094,Correct
+Europe et Asie centrale (BIRD et IDA),5.16074258293559,Correct
+BIRD seulement,5.16481549355938,Correct
+Brunéi Darussalam,5.183,Correct
+Luxembourg,5.184,Correct
+Fragile et les situations de conflit touchées,5.20087833966654,Correct
+Guinée,5.244,Correct
+de dividende précoce démographique,5.2602661302477,Correct
+Autriche,5.264,Correct
+Burkina Faso,5.348,Correct
+Guam,5.363,Correct
+Pakistan,5.408,Correct
+Canada,5.415,Correct
+Venezuela,5.485,Correct
+Mongolie,5.503,Correct
+Belgique,5.528,Correct
+République dominicaine,5.555,Correct
+Kenya,5.567,Correct
+Maurice,5.571,Correct
+Érythrée,5.586,Correct
+Europe et Asie centrale,5.58873341804014,Correct
+Roumanie,5.589,Correct
+Azerbaïdjan,5.636,Correct
+"Revenu intermédiaire, tranche supérieure",5.67666999727191,Correct
+Porto Rico,5.725,Correct
+Paraguay,5.794,Correct
+République slovaque,5.84,Correct
+République centrafricaine,5.877,Correct
+Afrique subsaharienne (BIRD et IDA),5.88775361694401,Correct
+Afrique subsaharienne,5.88775361694401,Correct
+Afrique subsaharienne (hors revenu élevé),5.88775361694401,Correct
+Zambie,5.905,Correct
+Sri Lanka,5.997,Correct
+Union européenne,6.02944529696582,Tension sur l’emploi
+Honduras,6.07,Tension sur l’emploi
+Croatie,6.086,Tension sur l’emploi
+Chypre,6.098,Tension sur l’emploi
+Amérique latine et Caraïbes (hors revenu élevé),6.11953093081959,Tension sur l’emploi
+Argentine,6.139,Tension sur l’emploi
+Îles Anglo-Normandes,6.187,Tension sur l’emploi
+Amérique latine et Caraïbes,6.20743027327999,Tension sur l’emploi
+Amérique latine et Caraïbes (BIRD et IDA),6.27705803055615,Tension sur l’emploi
+Estonie,6.378,Tension sur l’emploi
+Lettonie,6.465,Tension sur l’emploi
+Gambie,6.479,Tension sur l’emploi
+Portugal,6.509,Tension sur l’emploi
+Panama,6.544,Tension sur l’emploi
+Zone euro,6.5646094180748,Tension sur l’emploi
+Lituanie,6.841,Tension sur l’emploi
+Finlande,7.151,Tension sur l’emploi
+Petits états,7.24829729410406,Tension sur l’emploi
+Europe et Asie centrale (hors revenu élevé),7.33376867158914,Tension sur l’emploi
+"Égypte, République arabe d’",7.334,Tension sur l’emploi
+France,7.335,Tension sur l’emploi
+Autres petits états,7.41013147956157,Tension sur l’emploi
+Suède,7.611,Tension sur l’emploi
+Italie,7.627,Tension sur l’emploi
+Suriname,7.631,Tension sur l’emploi
+Barbade,7.878,Tension sur l’emploi
+Brésil,7.947,Tension sur l’emploi
+Belize,8.267,Tension sur l’emploi
+Serbie,8.268,Tension sur l’emploi
+Costa Rica,8.325,Tension sur l’emploi
+Uruguay,8.355,Tension sur l’emploi
+Guinée équatoriale,8.367,Tension sur l’emploi
+Bahamas,8.643,Tension sur l’emploi
+Zimbabwe,8.759,Tension sur l’emploi
+Chili,9.013,Tension sur l’emploi
+"Iran, République islamique d’",9.041,Tension sur l’emploi
+Maroc,9.044,Tension sur l’emploi
+Sao Tomé-et-Principe,9.071,Tension sur l’emploi
+Afrique du Nord et Moyen-Orient,9.12057231205856,Tension sur l’emploi
+Turquie,9.388,Tension sur l’emploi
+Le monde arabe,9.59035028813167,Tension sur l’emploi
+Colombie,9.594,Tension sur l’emploi
+Petits états des Caraïbes,9.68042872002248,Tension sur l’emploi
+Albanie,10.108,Tension sur l’emploi
+Mauritanie,10.446,Tension sur l’emploi
+Népal,10.628,Tension sur l’emploi
+Bosnie-Herzégovine,10.668,Tension sur l’emploi
+Afrique du Nord et Moyen-Orient (hors revenu élevé),10.8670875152924,Tension sur l’emploi
+Afrique du Nord et Moyen-Orient (BIRD et IDA),10.8670875152924,Tension sur l’emploi
+Nouvelle-Calédonie,10.939,Tension sur l’emploi
+Grèce,11.066,Tension sur l’emploi
+Sainte-Lucie,11.092,Tension sur l’emploi
+Géorgie,11.537,Tension sur l’emploi
+Liban,11.543,Tension sur l’emploi
+Tadjikistan,11.546,Tension sur l’emploi
+Algérie,11.701,Tension sur l’emploi
+Polynésie française,11.749,Tension sur l’emploi
+Cabo Verde,11.971,Tension sur l’emploi
+Guyana,12.025,Tension sur l’emploi
+Espagne,12.179,Tension sur l’emploi
+Îles Vierges (EU),12.32,Tension sur l’emploi
+Rwanda,12.352,Tension sur l’emploi
+Soudan du Sud,12.477,Tension sur l’emploi
+Macédoine du Nord,13.174,Tension sur l’emploi
+République arabe syrienne,13.187,Tension sur l’emploi
+Arménie,13.245,Tension sur l’emploi
+Afghanistan,13.991,Tension sur l’emploi
+Angola,14.537,Tension sur l’emploi
+Haïti,14.556,Tension sur l’emploi
+Monténégro,14.621,Tension sur l’emploi
+Tunisie,15.106,Tension sur l’emploi
+Iraq,15.447,Tension sur l’emploi
+Lesotho,16.457,Tension sur l’emploi
+"Yémen, Rép. du",17.091,Tension sur l’emploi
+Jordanie,17.969,Tension sur l’emploi
+Saint-Vincent-et-les Grenadines,18.574,Tension sur l’emploi
+Libye,18.753,Tension sur l’emploi
+Somalie,18.941,Tension sur l’emploi
+Namibie,19.365,Tension sur l’emploi
+"Congo, République du",19.898,Tension sur l’emploi
+Gabon,20.278,Tension sur l’emploi
+Botswana,23.381,Tension sur l’emploi
+Djibouti,26.154,Tension sur l’emploi
+Afrique du Sud,32.098,Tension sur l’emploi
+Eswatini,35.086,Tension sur l’emploi
